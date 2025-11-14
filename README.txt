@@ -1,2 +1,2 @@
 "primer commite PRUEBA" 
-ABSKIABNSCPINASUCNAS
+ahora vamos a calar el git dif
