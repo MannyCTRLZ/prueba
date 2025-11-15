@@ -1,0 +1,29 @@
+* [33mcommit f878ebc78bfe8f2f9a1f892377d48255efa0f371[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlogin[m[33m, [m[1;32mmaster[m[33m)[m
+[31m|[m Author: Manuel <manuelmcm645@gmail.com>
+[31m|[m Date:   Fri Nov 14 07:26:47 2025 -0700
+[31m|[m 
+[31m|[m     nota de relleno
+[31m|[m 
+* [33mcommit 51df39bb9087d5958709f324f1da779de7b3430d[m[33m ([m[1;33mtag: [m[1;33mprobando_tag[m[33m)[m
+[31m|[m Author: Manuel <manuelmcm645@gmail.com>
+[31m|[m Date:   Fri Nov 14 00:36:41 2025 -0700
+[31m|[m 
+[31m|[m     tercera modificacion para mostrar comandos
+[31m|[m 
+* [33mcommit 1324b334f8128a6a6c9d9ad639c7a2752d3df8a5[m
+[31m|[m Author: Manuel <manuelmcm645@gmail.com>
+[31m|[m Date:   Fri Nov 14 00:22:51 2025 -0700
+[31m|[m 
+[31m|[m     se agrega segunda linea al texto
+[31m|[m 
+* [33mcommit feac81514ccb46394fe638f9d52a45c9139b7a4f[m
+[31m|[m Author: Manuel <manuelmcm645@gmail.com>
+[31m|[m Date:   Fri Nov 14 00:10:03 2025 -0700
+[31m|[m 
+[31m|[m     este es mi segundp commit
+[31m|[m 
+* [33mcommit 47719c9dd14265671775fed4f9d97e43dce950ee[m
+  Author: Manuel <manuelmcm645@gmail.com>
+  Date:   Thu Nov 13 23:57:17 2025 -0700
+  
+      AHORA SI PRIMER COMMIT AGREGANDO A README
